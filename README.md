@@ -6,7 +6,7 @@ A client-side e-commerce application built with Vanilla JavaScript featuring pro
 
 🌐 Live Demo
 
-## 👉 https://your-netlify-link.netlify.app
+## 👉 https://ecommerce-vanilla-js-app.netlify.app
 
 ---
 
