@@ -4,6 +4,12 @@ A client-side e-commerce application built with Vanilla JavaScript featuring pro
 
 ---
 
+🌐 Live Demo
+
+## 👉 https://your-netlify-link.netlify.app
+
+---
+
 ## 📸 Screenshots
 
 ### 🏠 Home Page
@@ -12,7 +18,7 @@ A client-side e-commerce application built with Vanilla JavaScript featuring pro
 
 ### 🛒 Cart Page
 
-## ![Cart Page](/public/assets/image3.png)
+![Cart Page](/public/assets/image3.png)
 
 ---
 
