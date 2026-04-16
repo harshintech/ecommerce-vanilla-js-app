@@ -36,18 +36,6 @@ A client-side e-commerce application built with Vanilla JavaScript featuring pro
 
 ---
 
-## 📁 Project Structure
-
-```
-├── index.html
-├── style.css
-├── script.js
-├── products.json
-└── assets/
-```
-
----
-
 ## ⚙️ How It Works
 
 - Product data is stored in a local `products.json` file
